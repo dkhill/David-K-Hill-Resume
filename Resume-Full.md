@@ -79,7 +79,7 @@ The following is a list of BMC Products that were used to specify, install, buil
 
 **Senior Remedy/Helix Application Engineer/Developer**  
 *08/19/2024 – 04/25/2025*  
-Manager: Jay Tidwell – Jay.Tidwell@peraton.com
+Manager: Jay Tidwell – <Jay.Tidwell@peraton.com>
 
 - Developed and supported USCG On-Prem Ticketing system; facilitated migration to BMC Helix SaaS
 - Edited Service Request Definitions for Digital Workplace deployment
@@ -94,7 +94,7 @@ Manager: Jay Tidwell – Jay.Tidwell@peraton.com
 
 **Senior Remedy Application Helix Integration Developer**  
 *03/24/2022 – 06/15/2024*  
-Manager: Teresa Fannin – teresasfannin@aol.com  
+Manager: Teresa Fannin – <teresasfannin@aol.com>  
 
 - Developed REST API endpoints for Navy Shared Data Environment (SDE)
 - Supported Navy311 SPA and NEITSM platforms
@@ -137,7 +137,7 @@ Manager: David Fincher – Greenwood Village, CO
 *05/11/2015 – 05/25/2017*  
 Location: Fort Huachuca, Arizona  
 Location: Colorado Springs, CO  
-Supervisor: Donald W Wallace Jr. 
+Supervisor: Donald W Wallace Jr.
 
 - Supported ARCYBERCOM ITSM workflows and incident management
 - Developed BIRT reports and dashboards
