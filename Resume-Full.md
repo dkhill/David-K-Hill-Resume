@@ -2,14 +2,15 @@
 
 **Senior BMC ITSM Application/Systems Developer/Engineer/Architect**  
 Centennial, Colorado  
-Phone: 916-214-0388 Cell  
-Email: <dkhill@fwcc4u.com>  
+LinkedIn:  [https://www.linkedin.com/in/mrremedy/](https://www.linkedin.com/in/mrremedy/)
+
+Please Contact at:  [https://fwcc4u.com/HireDavid/](https://fwcc4u.com/HireDavid/)
 
 ---
 
 ## AVAILABILITY
 
-I prefer full time or contract work in the greater Denver Tech Center (DTC) Area of Colorado or via remote work (Telework).
+I prefer permanent full time or contract work in the Denver Tech Center (DTC) Area of Colorado or via remote work (Telework).
 
 ---
 
@@ -21,7 +22,7 @@ I am currently seeking a position with a dynamic, innovative, and fast paced com
 
 ## COMPETENCIES AND ETHICS
 
-I have 35+ years of experience working with BMC Remedy Based Applications, Infrastructure and Platforms including Atrium CMDB, TrueSight Server Automation and BMC Client Management.
+I have 34+ years of experience working with BMC Remedy Based Applications, Infrastructure and Platforms including Atrium CMDB, TrueSight Server Automation and BMC Client Management.
 
 I have an extensive understanding in system architecture, network topology and performance base operations (DevOps). I continue to mentor and assist team members at all levels of the application infrastructure. I am very logically minded when performing disciplined troubleshooting tasks.
 
@@ -76,9 +77,9 @@ The following is a list of BMC Products that were used to specify, install, buil
 
 ### United States Coast Guard via Peraton, Inc  
 
-**Senior Remedy Application Engineer/Developer**  
+**Senior Remedy/Helix Application Engineer/Developer**  
 *08/19/2024 – 04/25/2025*  
-Manager: Jay Tidwell – <Jay.Tidwell@peraton.com>  
+Manager: Jay Tidwell – Jay.Tidwell@peraton.com
 
 - Developed and supported USCG On-Prem Ticketing system; facilitated migration to BMC Helix SaaS
 - Edited Service Request Definitions for Digital Workplace deployment
@@ -91,9 +92,9 @@ Manager: Jay Tidwell – <Jay.Tidwell@peraton.com>
 
 ### United States Navy via Nationwide IT Services, Inc  
 
-**Senior Remedy Application Engineer/Developer**  
+**Senior Remedy Application Helix Integration Developer**  
 *03/24/2022 – 06/15/2024*  
-Manager: Teresa Fannin – <teresasfannin@aol.com>  
+Manager: Teresa Fannin – teresasfannin@aol.com  
 
 - Developed REST API endpoints for Navy Shared Data Environment (SDE)
 - Supported Navy311 SPA and NEITSM platforms
@@ -135,6 +136,8 @@ Manager: David Fincher – Greenwood Village, CO
 **Senior Remedy ITSM SAP Engineer**  
 *05/11/2015 – 05/25/2017*  
 Location: Fort Huachuca, Arizona  
+Location: Colorado Springs, CO  
+Supervisor: Donald W Wallace Jr. 
 
 - Supported ARCYBERCOM ITSM workflows and incident management
 - Developed BIRT reports and dashboards
@@ -147,7 +150,7 @@ Location: Fort Huachuca, Arizona
 **Senior Remedy Application Engineer**  
 *02/24/2014 – 12/31/2014*  
 Location: Colorado Springs, CO  
-Sponsor: David J. Nauer – <David.Nauer@verizon.com>  
+Supervisor: David J. Nauer – <David.Nauer@verizon.com>  
 
 - Designed global ticketing systems for security incident management
 - Architected web service integrations across international banking sites
