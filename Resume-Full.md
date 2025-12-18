@@ -4,7 +4,7 @@
 Centennial, Colorado  
 LinkedIn:  [https://www.linkedin.com/in/mrremedy/](https://www.linkedin.com/in/mrremedy/)
 
-Please Contact at:  [https://fwcc4u.com/HireDavid/](https://fwcc4u.com/HireDavid/)
+Please contact me at:  [https://fwcc4u.com/HireDavid/](https://fwcc4u.com/HireDavid/)
 
 ---
 
