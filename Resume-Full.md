@@ -199,3 +199,5 @@ Manager: John Murphree – <John_Murphree@cable.comcast.com>
   - Anti-Terrorism Level I  
   - DoD Threat Awareness  
   - Classified Systems Handling
+
+![GitHub last commit](https://img.shields.io/github/last-commit/dkhill/David-K-Hill-Resume)
