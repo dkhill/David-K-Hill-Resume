@@ -9,19 +9,16 @@ Please contact me at:  [https://fwcc4u.com/HireDavid/](https://fwcc4u.com/HireDa
 ---
 
 ## AVAILABILITY
-
 I prefer permanent full time or contract work in the Denver Tech Center (DTC) Area of Colorado or via remote work (Telework).
 
 ---
 
 ## OBJECTIVE
-
 I am currently seeking a position with a dynamic, innovative, and fast paced company that will utilize my proven technical skills to allow me to make a difference in their overall public or military image. I am always eager to assist and make the team grow in knowledge and understanding. I have extensive skills with both out of the box applications as well as customized Remedy AR System applications including the full ITSM Suite. I base my driven disciplines on making the System work for the people with goals to streamline processes and business strategies. I pride myself on attention to detail and have a tremendous rapport of technical knowledge dealing with system and application architecture relating to BMC Remedy/Helix AR System and ITSM Architecture. I have several major successes under my belt for National and Global deployments projects. I have extensive experience with TrueSight Server Automation (TSSA), including hands-on work with the TSSA Console and TSSA Client. My expertise encompasses deployment, configuration, troubleshooting, and operations of these tools. I have successfully managed and optimized server automation processes, ensuring efficient and reliable performance. I am also continuing to seek to broaden my knowledge with the similar cloud only based Service Now platform. (Kubernetes, Docker Container technologies). With my many years of the BMC product suites. I'm also willing to expand my horizons with containerization technologies (Docker, Kubernetes, Rancher etc).
 
 ---
 
 ## COMPETENCIES AND ETHICS
-
 I have 34+ years of experience working with BMC Remedy Based Applications, Infrastructure and Platforms including Atrium CMDB, TrueSight Server Automation and BMC Client Management.
 
 I have an extensive understanding in system architecture, network topology and performance base operations (DevOps). I continue to mentor and assist team members at all levels of the application infrastructure. I am very logically minded when performing disciplined troubleshooting tasks.
@@ -76,7 +73,6 @@ The following is a list of BMC Products that were used to specify, install, buil
 ## Employment History
 
 ### United States Coast Guard via Peraton, Inc  
-
 **Senior Remedy/Helix Application Engineer/Developer**  
 *08/19/2024 – 04/25/2025*  
 Manager: Jay Tidwell – <Jay.Tidwell@peraton.com>
@@ -91,7 +87,6 @@ Manager: Jay Tidwell – <Jay.Tidwell@peraton.com>
 ---
 
 ### United States Navy via Nationwide IT Services, Inc  
-
 **Senior Remedy Application Helix Integration Developer**  
 *03/24/2022 – 06/15/2024*  
 Manager: Teresa Fannin – <teresasfannin@aol.com>  
@@ -104,7 +99,6 @@ Manager: Teresa Fannin – <teresasfannin@aol.com>
 ---
 
 ### United States Space Force via Prime Technical Services Inc  
-
 **Senior Remedy/TSSA/BCM Engineer**  
 *05/22/2020 – 02/21/2022*  
 Manager: Cynthia Julien  
@@ -118,7 +112,6 @@ Manager: Cynthia Julien
 ---
 
 ### Defense Information Systems Agency (DISA) via DM Inc  
-
 **Senior Remedy ITSM / SAP Engineer**  
 *05/30/2017 – 05/22/2020*  
 Manager: David Fincher – Greenwood Village, CO  
@@ -132,7 +125,6 @@ Manager: David Fincher – Greenwood Village, CO
 ---
 
 ### US Army via SRA International / CSRA / GDIT  
-
 **Senior Remedy ITSM SAP Engineer**  
 *05/11/2015 – 05/25/2017*  
 Location: Fort Huachuca, Arizona  
@@ -146,7 +138,6 @@ Supervisor: Donald W Wallace Jr.
 ---
 
 ### Verizon Enterprise via Infinite Computer Solutions  
-
 **Senior Remedy Application Engineer**  
 *02/24/2014 – 12/31/2014*  
 Location: Colorado Springs, CO  
@@ -159,7 +150,6 @@ Supervisor: David J. Nauer – <David.Nauer@verizon.com>
 ---
 
 ### Comcast Cable Corporation  
-
 **Senior Remedy Application Engineer**  
 *06/22/2009 – 01/16/2014*  
 Location: Englewood, CO  
@@ -168,14 +158,12 @@ Manager: John Murphree – <John_Murphree@cable.comcast.com>
 - Developed Executive Support Line for 3.3M customers
 
 ## Certifications
-
 - **AR System Administration Certification (RAC)** – Version 7.5, July 2010  
 - **CompTIA Security+** – Certification SY0-401, December 21, 2022 (CEC Ongoing)
 
 ---
 
 ## Security Clearance Level
-
 - **Active Top Secret TSI** – Granted 04/02/2018  
 - **Prior Grant** – 1983 (USAF)  
 - Department of Defense: US Army, DISA, Air Force
@@ -183,7 +171,6 @@ Manager: John Murphree – <John_Murphree@cable.comcast.com>
 ---
 
 ## Industries
-
 - Department of Defense – US Air Force, Army, Navy, Coast Guard, Space Force, DISA  
 - Telecommunications – Cable, Wireless Cells, Home-Based Security Systems, Telephone and Internet  
 - Department of Interior – DOI, BLM, DFG, BIA  
@@ -192,7 +179,6 @@ Manager: John Murphree – <John_Murphree@cable.comcast.com>
 ---
 
 ## Education & Training
-
 - **Applied Science Degree in Computer Science and Electrical Engineering**  
 - **Post Graduate Courses of Study**  
 - **Department of Defense Training:**
